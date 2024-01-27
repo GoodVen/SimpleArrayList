@@ -10,7 +10,7 @@ public class Main {
     list.addAll(elementsToAdd);
 
     System.out.println("Size: " + list.size());
-    System.out.println("Contains 3: " + list.contains(54));
+    System.out.println("Contains 54: " + list.contains(54));
     System.out.println("Index of 4: " + list.indexOf(4));
 
     list.remove(2);
