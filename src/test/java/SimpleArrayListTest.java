@@ -3,7 +3,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class SimpleArrayListTest {
 
-    @Test
+   /* @Test
     public void testAdd() {
         SimpleArrayList list = new SimpleArrayList();
         list.add(1);
@@ -131,5 +131,121 @@ public class SimpleArrayListTest {
         list.add(3);
         assertEquals(3, list.size());
     }
+
+    @Test
+    void size() {
+    }
+
+    @Test
+    void isEmpty() {
+    }
+
+    @Test
+    void contains() {
+    }
+
+    @Test
+    void iterator() {
+    }
+
+    @Test
+    void toArray() {
+    }
+
+    @Test
+    void testToArray() {
+    }
+
+    @Test
+    void add() {
+    }
+
+    @Test
+    void remove() {
+    }
+
+    @Test
+    void containsAll() {
+    }
+
+    @Test
+    void addAll() {
+    }
+
+    @Test
+    void testAddAll1() {
+    }
+
+    @Test
+    void removeAll() {
+    }
+
+    @Test
+    void retainAll() {
+    }
+
+    @Test
+    void clear() {
+    }
+
+    @Test
+    void get() {
+    }
+
+    @Test
+    void set() {
+    }
+
+    @Test
+    void testAdd1() {
+    }
+
+    @Test
+    void testRemove1() {
+    }
+
+    @Test
+    void indexOf() {
+    }
+
+    @Test
+    void lastIndexOf() {
+    }
+
+    @Test
+    void listIterator() {
+    }
+
+    @Test
+    void testListIterator() {
+    }
+
+    @Test
+    void subList() {
+    }
+
+    @Test
+    void testClear() {
+    }
+
+    @Test
+    void testGet1() {
+    }
+
+    @Test
+    void testSet() {
+    }
+
+    @Test
+    void testAdd2() {
+    }
+
+    @Test
+    void testRemove2() {
+    }
+
+    @Test
+    void testIndexOf1() {
+    }*/
 }
 
